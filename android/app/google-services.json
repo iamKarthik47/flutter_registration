@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035575125550",
+    "project_id": "sample-reg1",
+    "storage_bucket": "sample-reg1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035575125550:android:8dbb05c7dee774103021bf",
+        "android_client_info": {
+          "package_name": "com.example.flutte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gZuwg2RrrW31SsHousFxTYPlO5PW57Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
